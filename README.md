@@ -5,3 +5,5 @@
 "StAndrews_Planetarium.jpeg" - I designed the University of St Andrews planetarium logo, used on our new uniforms.
 
 "WHT_Acrylic_painting.jpg" - recent acrylic painting of our William Herschel Telescope at sunset.
+
+"Danish_Skycam.jpg" - ballpoint pen and pencil doodle I did when observing at the 1.54m Danish telescope in La Silla.
