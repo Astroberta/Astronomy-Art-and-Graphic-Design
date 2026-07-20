@@ -1,1 +1,1 @@
-"University_of_StAndrews_Telescopes.pdf" - the poster I've created to showcase current telescopes of the St Andrews Observatory.
+"University_of_StAndrews_Telescopes.pdf" - poster showcasing the current telescopes of the St Andrews Observatory.
